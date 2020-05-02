@@ -1,0 +1,13 @@
+C:\Users\dimek\source\repos\ShapePainter\ShapePainter\bin\Debug\netcoreapp3.1\ShapePainter.exe
+C:\Users\dimek\source\repos\ShapePainter\ShapePainter\bin\Debug\netcoreapp3.1\ShapePainter.deps.json
+C:\Users\dimek\source\repos\ShapePainter\ShapePainter\bin\Debug\netcoreapp3.1\ShapePainter.runtimeconfig.json
+C:\Users\dimek\source\repos\ShapePainter\ShapePainter\bin\Debug\netcoreapp3.1\ShapePainter.runtimeconfig.dev.json
+C:\Users\dimek\source\repos\ShapePainter\ShapePainter\bin\Debug\netcoreapp3.1\ShapePainter.dll
+C:\Users\dimek\source\repos\ShapePainter\ShapePainter\bin\Debug\netcoreapp3.1\ShapePainter.pdb
+C:\Users\dimek\source\repos\ShapePainter\ShapePainter\obj\Debug\netcoreapp3.1\ShapePainter.csprojAssemblyReference.cache
+C:\Users\dimek\source\repos\ShapePainter\ShapePainter\obj\Debug\netcoreapp3.1\ShapePainter.csproj.CoreCompileInputs.cache
+C:\Users\dimek\source\repos\ShapePainter\ShapePainter\obj\Debug\netcoreapp3.1\ShapePainter.AssemblyInfoInputs.cache
+C:\Users\dimek\source\repos\ShapePainter\ShapePainter\obj\Debug\netcoreapp3.1\ShapePainter.AssemblyInfo.cs
+C:\Users\dimek\source\repos\ShapePainter\ShapePainter\obj\Debug\netcoreapp3.1\ShapePainter.dll
+C:\Users\dimek\source\repos\ShapePainter\ShapePainter\obj\Debug\netcoreapp3.1\ShapePainter.pdb
+C:\Users\dimek\source\repos\ShapePainter\ShapePainter\obj\Debug\netcoreapp3.1\ShapePainter.genruntimeconfig.cache

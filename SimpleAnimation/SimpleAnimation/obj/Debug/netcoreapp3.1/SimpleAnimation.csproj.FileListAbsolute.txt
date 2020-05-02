@@ -1,0 +1,13 @@
+C:\Users\dimek\source\repos\SimpleAnimation\SimpleAnimation\bin\Debug\netcoreapp3.1\SimpleAnimation.exe
+C:\Users\dimek\source\repos\SimpleAnimation\SimpleAnimation\bin\Debug\netcoreapp3.1\SimpleAnimation.deps.json
+C:\Users\dimek\source\repos\SimpleAnimation\SimpleAnimation\bin\Debug\netcoreapp3.1\SimpleAnimation.runtimeconfig.json
+C:\Users\dimek\source\repos\SimpleAnimation\SimpleAnimation\bin\Debug\netcoreapp3.1\SimpleAnimation.runtimeconfig.dev.json
+C:\Users\dimek\source\repos\SimpleAnimation\SimpleAnimation\bin\Debug\netcoreapp3.1\SimpleAnimation.dll
+C:\Users\dimek\source\repos\SimpleAnimation\SimpleAnimation\bin\Debug\netcoreapp3.1\SimpleAnimation.pdb
+C:\Users\dimek\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\netcoreapp3.1\SimpleAnimation.csprojAssemblyReference.cache
+C:\Users\dimek\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\netcoreapp3.1\SimpleAnimation.csproj.CoreCompileInputs.cache
+C:\Users\dimek\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\netcoreapp3.1\SimpleAnimation.AssemblyInfoInputs.cache
+C:\Users\dimek\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\netcoreapp3.1\SimpleAnimation.AssemblyInfo.cs
+C:\Users\dimek\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\netcoreapp3.1\SimpleAnimation.dll
+C:\Users\dimek\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\netcoreapp3.1\SimpleAnimation.pdb
+C:\Users\dimek\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\netcoreapp3.1\SimpleAnimation.genruntimeconfig.cache
